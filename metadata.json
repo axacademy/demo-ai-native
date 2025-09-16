@@ -1,0 +1,5 @@
+{
+  "name": "[Demo]AI네이티브 조직전환 진단",
+  "description": "A multi-stage web application to diagnose an organization's AI Native Organization Transformation capabilities. It includes a landing page, a detailed questionnaire, and a comprehensive results dashboard with data visualizations.",
+  "requestFramePermissions": []
+}
